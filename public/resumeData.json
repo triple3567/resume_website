@@ -4,7 +4,7 @@
     "occupation": "Software Engineer",
     "description": "I type in a glorified word document for fun",
     "image": "profilepic.jpg",
-    "bio": "Software developer based out of Florida. I love building and taking on exciting projects that challenge my current skill set, whether it be a computer program, home imporovment tasks, automation assignments, or anything in between! Music is such a passion for me and I want to learn to play as many instruments as possible. I'm especially a fan of hip-hop, punk rock, indie, and electronic. I am an avid basketball fan (go heat!) and ameratur player. At the end of the day, I want my career to be something I can look back on and be proud of. ",
+    "bio": "Software developer based out of Florida. I love building and taking on exciting projects that challenge my current skill set, whether it be a computer program, home imporovment tasks, automation assignments, or anything in between! Music is a great passion of mine and I want to learn to play as many instruments as possible. I'm especially a fan of hip-hop, punk rock, indie, and electronic. I am an avid basketball fan (go heat!) and ameratur player. At the end of the day, I want my career to be something I can look back on and be proud of. ",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "ericvho888@gmail.com",
     "phone": "813-505-3230",
@@ -121,6 +121,16 @@
         "category": "The code review for SoundStage",
         "image": "SoundStageDiagram.jpg",
         "url": "https://youtu.be/4RV7HyizQNE"
+      },
+      {
+        "title": "Deep Q-Learning for Atari Breakout",
+        "image": "ai.png",
+        "url": "https://youtu.be/4RV7HyizQNE"
+      },
+      {
+        "title": "Deep Q-Learning for Atari Breakout Code Review",
+        "image": "ai-code-review.png",
+        "url": "https://youtu.be/Up_76AMfXJo"
       },
       { 
         "title": "Imprint Genius Web Application",
