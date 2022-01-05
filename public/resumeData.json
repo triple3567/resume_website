@@ -2,9 +2,9 @@
   "main": {
     "name": "Eric Ho",
     "occupation": "Software Engineer",
-    "description": "I specialize in problem sovling",
+    "description": "I type in a glorified word document for fun",
     "image": "profilepic.jpg",
-    "bio": "Im am an aspiring engineer, with a background in computer science, and a passion for innovation. I favor creative projects that push me to invent, deconstruct, and reimagine. Outside of work I am a gym rat, musician, skateboarder, and traveler. My professional career is just getting started, and I am excited for the journy to come.",
+    "bio": "Software developer based out of Florida. I love building and taking on exciting projects that challenge my current skill set, whether it be a computer program, home imporovment tasks, automation assignments, or anything in between! Music is such a passion for me and I want to learn to play as many instruments as possible. I'm especially a fan of hip-hop, punk rock, indie, and electronic. I am an avid basketball fan (go heat!) and ameratur player. At the end of the day, I want my career to be something I can look back on and be proud of. ",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "ericvho888@gmail.com",
     "phone": "813-505-3230",
@@ -26,6 +26,11 @@
         "name": "github",
         "url": "https://github.com/triple3567",
         "className": "fa fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/erictheho/",
+        "className": "fa fa-instagram"
       }
     ]
   },
@@ -35,22 +40,35 @@
       {
         "school": "University of Florida",
         "degree": "BS in Computer Science, Minor in Economics",
-        "graduated": "Expected May 2022",
-        "description": "In my time at UF, I learned a lot of theory in courses such as operating systems, data structures and algorithms, and numerical analysis. In other courses, I completed many projects that challenged my logical reasoning, teamwork, and programming skills. Some notable projects include a VST plugin that simulated 3D audio, A web application for an ecommmerce store owner, and a titanic survival prediction model. "
+        "graduated": "May 2022",
+        "description": "In my time at UF, I learned a lot of conputer related theory in courses such as operating systems, data structures and algorithms, deep learning for comuputer graphics, and penetration testing for ethical hacking. I completed many projects that sharpened my logical reasoning, and programming skills. However, The most valuable asset I gained were the friends and life long connections I made."
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "ADAMUS Lab @ The University of Florida",
+        "title": "Software Engineer",
+        "years": "August 2020 - August 2021",
+        "description": "Under the direction of Dr. Riccardo Belivaquia, the ADvanced Autonomous MUltiple Spacecraft laboratory (ADAMUS) bridges the gap between computer numerical simulations and actual orbital flight. I worked on the Passive Thermal Coating Observatory Operating in Low-Earth Orbit (PATCOOL). PATCOOL is a NASA sponsered cubsat whos mission was to investigate the feasibility of using a cryogenic selective surface coating as a new, more efficient way of passively cooling components in space.",
+        "description2": "Our software team consisted of 3 undergrad students tasked with handling data and commands of hardware component, communication between the satellite and ground station while minimizing the volume of data transfered, and ensuring integrety at each stage of the boot sequence. I developed in c++ and python using the ROS framework written, as well as using bash and sqlite3 for various parts of the software packages. Working closely with the electrical team, I learned how to debug PCBs and preform hardware-in-the-loop testing."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Raymond James Financial",
+        "title": "IT Intern ",
+        "years": "May 2020 - August 2020",
+        "description": "Working at Raymond James taught me how to work with a large team in a scrum based enviroment, and how communication between communication between developers is vital. I completed debugging tasks for a web service facing financial advisors, and created ER diagrams for the databases. My internship started right at the emergence of virtual work due to COVID-19, so I assisted my colleagues that had trouble migrating to an online environment."
+      },
+      {
+        "company": "MYOLYN",
+        "title": "Intern",
+        "years": "May 2019 - August 2019",
+        "description": "My main task here was a basic machine learning model which took survey data from the company's website and predicted which customers were most likely to buy our product. I also assisted in the transfer of data when the company was switching inventory management systems. I learned how small companies operate, and witnessed the decision making process that new companies must make everyday."
+      },
+      {
+        "company": "Publix Supermarkets",
+        "title": "Cashier and Bagger ",
+        "years": "May 2016 - August 2018",
+        "description": "Working at a grocery store taught me how to interact with a wide range of people. Having to keep a calm and collected demeanor while serving people from all walks of life is a valuable skill that will help me forever."
       }
     ],
     "skills": [
@@ -87,46 +105,45 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "PATCOOL Cubesat",
+        "category": "Article for UF PATCOOL Cubesat",
+        "image": "PATCOOL.jpg",
+        "url": "https://www.alligator.org/article/2021/11/uf-astronomy-nasa-aerospace-engineering"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "SoundStage",
+        "category": "A VST plugin for music producers",
+        "image": "SoundStageUI.png",
+        "url": "https://youtu.be/Yupfm9FMOlY"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "SoundStage",
+        "category": "The code review for SoundStage",
+        "image": "SoundStageDiagram.jpg",
+        "url": "https://youtu.be/4RV7HyizQNE"
       },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+      { 
+        "title": "Imprint Genius Web Application",
+        "category": "Internal web application build for Imprint Genius as a school project",
+        "image": "ImprintGenius.jpg",
+        "url": "https://youtu.be/cmAIgyAdrw0"
       }
+      
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "One of the most creative, diligent, light-hearted, and intelligent men of my generation.",
+        "user": "Mahatma Gandhi"
       },
       {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "WOW he's so handsome and strong!!!",
+        "user": "Jennifer Lawrence "
+      },
+      {
+        "text": "He's like a brother to me.",
+        "user": "My brother "
       }
     ]
   }

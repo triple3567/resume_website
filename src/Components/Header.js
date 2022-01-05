@@ -27,15 +27,14 @@ class Header extends Component {
 	         <li><a className="smoothscroll" href="#resume">Resume</a></li>
             <li><a className="smoothscroll" href="#portfolio">Works</a></li>
             <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li>
-            <li><a className="smoothscroll" href="#contact">Contact</a></li>
          </ul>
 
       </nav>
 
       <div className="row banner">
          <div className="banner-text">
-            <h1 style={{color: '#75A9C5'}} className="responsive-headline">I'm {name}.</h1>
-            <h3 style={{color: '#ffffff'}}>I'm a {city} based <span style={{color: '#75A9C5'}}>{occupation}</span>. {description}.</h3>
+            <h1 style={{color: '#75A9C5'}} className="responsive-headline">{name}</h1>
+            <h3 style={{color: '#ffffff'}}>The universe wasn't made for us, we just happen to live in it.</h3>
             <hr />
             <ul className="social">
                {networks}

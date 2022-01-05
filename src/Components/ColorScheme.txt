@@ -1,1 +1,6 @@
-Blue #75A9C5
+Tan    #8F8185
+Orange #F8933A
+Brown  #833E06
+Blue   #75A9C5
+Black  #080707
+White  #FFFFFF
